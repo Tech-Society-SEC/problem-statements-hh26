@@ -12,7 +12,7 @@ Contaminated food reaches consumers, counterfeit vaccines enter hospital supply 
 
 ## Your Challenge
 
-Build a blockchain-based provenance system specifically for perishable goods supply chains that:
+Build a provenance system specifically for perishable goods supply chains that:
 
 - Creates an immutable, timestamped record at every custody handoff, capturing who handled the shipment, where, and under what documented conditions.
 - Anchors uploaded cold chain documents (temperature logs, inspection certificates, chain-of-custody records) to on-chain hashes, making any post-hoc alteration detectable.
